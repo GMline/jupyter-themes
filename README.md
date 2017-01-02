@@ -107,9 +107,9 @@ jt -t chesterish
 # toggle toolbar ON and notebook name ON
 jt -t grade3 -T -N
 
-# set code font to 'Roboto Mono' 12pt
+# set code font to 'Roboto Mono' 15pt
 # (see monospace font table below)
-jt -t oceans16 -f roboto -fs 12
+**jt -t oceans16 -f roboto -fs 15**
 
 # set code font to Fira Mono, 11.5pt
 # 3digit font-size gets converted into float (115-->11.5)
